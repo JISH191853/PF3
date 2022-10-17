@@ -16,10 +16,10 @@ public class Main1 {
         System.out.println(user2);
         if(user1.equals(user2))
         {
-        	System.out.println("User 1 is same as User 2");
+        	System.out.println("User 1 is same as the second user");
         }
         else
-        	System.out.println("User 1 and User 2 are different");
+        	System.out.println("User 1 and User 2 are totally different");
 	}
 
 }
